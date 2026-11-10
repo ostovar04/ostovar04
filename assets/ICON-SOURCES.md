@@ -15,7 +15,8 @@ Theme-specific SVGs and GIFs live in `assets/light/` and `assets/dark/`; paired 
 ## Original artwork
 
 - The anime-inspired hero, animated bilingual star footer, collaborator-card backgrounds, and `stats-mascot.svg` banner are original artwork made for this profile; they do not use existing anime-franchise characters.
-- The stats banner features an original chibi programmer illustration and `ostovar04`. Live stats and language cards in `README.md` fetch the account’s GitHub data from the stats service.
+- The stats banner features an original chibi programmer illustration and `ostovar04`. The light/dark `github-stats.svg` and `top-languages.svg` cards are generated locally from GitHub’s public REST API by `scripts/update_profile_stats.py`; `.github/workflows/update-profile-stats.yml` refreshes them daily and can also be run manually. This avoids the unavailable external stats-card service, does not invent metrics, and requires no third-party endpoint. The README displays the latest generated snapshot; refreshes begin after the profile repository and workflow are uploaded.
+- `learning-quest.svg` is original anime-inspired bilingual artwork. Its four learning topics are editable suggestions only; replace them with Matin’s confirmed current studies before publishing or remove the section.
 - `certificate-django.svg`, `certificate-ai-agents.svg`, `certificate-android.svg`, and `certificate-unity.svg` have their category names embedded in the artwork. They are editable placeholders, not evidence of credentials. Replace with verified title, issuer, date/year, and URL, or remove unused cards.
 - Future-project entries are explicitly marked as editable planned concepts, not completed work.
 - The footer GIF’s current bilingual copy is: «اگر این پروفایل براتون مفید بود، با یک ستاره حمایتش کنید» / “If this profile was helpful, please leave a star”.
