@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="232" viewBox="0 0 820 232" role="img" aria-labelledby="title desc">
+<title id="title">Anime-inspired GitHub stats banner for ostovar04</title><desc id="desc">An original chibi programmer with a laptop, colorful manga-style stars, and the GitHub username ostovar04.</desc>
+<defs>
+ <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111528"/><stop offset="1" stop-color="#211934"/></linearGradient>
+ <linearGradient id="hair" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#18172f"/><stop offset="1" stop-color="#6852c6"/></linearGradient>
+ <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#64e8ff"/><stop offset="1" stop-color="#ff79c8"/></linearGradient>
+ <radialGradient id="aura"><stop stop-color="#492553" stop-opacity=".8"/><stop offset="1" stop-color="#492553" stop-opacity="0"/></radialGradient>
+ <filter id="shadow" x="-30%" y="-30%" width="170%" height="180%"><feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#fff0fa" flood-opacity=".16"/></filter>
+ <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#62447c" opacity=".55"/></pattern>
+</defs>
+<rect x="2" y="2" width="816" height="228" rx="24" fill="url(#panel)" stroke="#513567" stroke-width="2"/>
+<path d="M14 44V18h74M806 188v26h-74" fill="none" stroke="url(#shine)" stroke-width="3" stroke-linecap="round"/>
+<path d="M22 57h420v146H22z" fill="url(#dots)" opacity=".52"/>
+<ellipse cx="699" cy="130" rx="125" ry="108" fill="url(#aura)"/>
+<path d="m449 40 5 12 13 2-10 9 3 13-11-7-11 7 3-13-10-9 13-2z" fill="#ff79c8" opacity=".9"/>
+<path d="m532 169 4 9 10 1.5-7 7 2 10-9-5-9 5 2-10-7-7 10-1.5z" fill="#64e8ff" opacity=".9"/>
+<path d="m774 67 4 9 10 1.5-7 7 2 10-9-5-9 5 2-10-7-7 10-1.5z" fill="#ff79c8" opacity=".85"/>
+<circle cx="484" cy="105" r="3" fill="#64e8ff"/><circle cx="553" cy="53" r="2.5" fill="#ff79c8"/><circle cx="791" cy="142" r="3" fill="#64e8ff"/>
+<text x="48" y="65" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="2.1" fill="#f0a6e0">PROFILE QUEST  ·  LIVE DATA</text>
+<text x="45" y="112" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800" letter-spacing=".6" fill="#fff0fa">GITHUB STATS</text>
+<text x="47" y="151" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="800" fill="#64e8ff">ostovar04</text>
+<text x="49" y="180" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.8" fill="#f0a6e0">CODE QUEST  ·  LEVEL UP ✦</text>
+<rect x="48" y="194" width="350" height="7" rx="3.5" fill="#62447c" opacity=".55"/><rect x="48" y="194" width="223" height="7" rx="3.5" fill="url(#shine)"/>
+<path d="M612 204c0-29 17-47 47-51 39-6 72 13 85 51" fill="#5043a4" opacity=".95"/>
+<path d="M638 166c-11 8-18 23-20 48h101c-2-26-11-42-27-50z" fill="#5043a4" stroke="#ff79c8" stroke-width="2"/>
+<path d="M649 163l19 21 17-21" fill="none" stroke="#64e8ff" stroke-width="3" stroke-linecap="round"/>
+<path d="M665 141h29v27c-6 11-22 11-29 0z" fill="#ffe4d4"/>
+<!-- hair silhouette and flowing side locks -->
+<path d="M635 109c-18-50 5-83 49-86 46-4 72 25 58 77l-2 56c-4 18-13 29-25 36l-4-51c-9 8-19 12-31 8-12 9-29 10-42 2l-3 39c-17-15-21-34-14-81z" fill="url(#hair)" filter="url(#shadow)"/>
+<!-- face -->
+<ellipse cx="678" cy="105" rx="39" ry="47" fill="#ffe4d4" stroke="#ff79c8" stroke-opacity=".35" stroke-width="1.5"/>
+<ellipse cx="650" cy="112" rx="5" ry="8" fill="#ffe4d4"/><ellipse cx="706" cy="112" rx="5" ry="8" fill="#ffe4d4"/>
+<!-- headphones -->
+<path d="M640 95c-3-34 14-56 39-58 29-2 45 20 40 57" fill="none" stroke="#64e8ff" stroke-width="5" stroke-linecap="round"/>
+<rect x="633" y="91" width="12" height="26" rx="6" fill="#ff79c8" stroke="#fff0fa" stroke-opacity=".25"/><rect x="709" y="91" width="12" height="26" rx="6" fill="#64e8ff" stroke="#fff0fa" stroke-opacity=".25"/>
+<!-- bangs -->
+<path d="M640 95c-4-30 10-54 42-57 27-2 44 12 48 38-12-9-21-12-31-9-7 2-11 9-18 12-8 4-16 2-25-1-1 13-6 21-15 27z" fill="url(#hair)"/>
+<path d="M647 63c10-14 23-20 39-21" fill="none" stroke="#64e8ff" stroke-width="3" stroke-linecap="round" opacity=".72"/>
+<!-- big anime eyes -->
+<ellipse cx="663" cy="108" rx="7" ry="10" fill="#26213d"/><ellipse cx="691" cy="108" rx="7" ry="10" fill="#26213d"/>
+<ellipse cx="664" cy="107" rx="3.4" ry="5.8" fill="#64e8ff"/><ellipse cx="692" cy="107" rx="3.4" ry="5.8" fill="#64e8ff"/>
+<circle cx="665" cy="104" r="2.2" fill="#fff"/><circle cx="693" cy="104" r="2.2" fill="#fff"/>
+<path d="M671 126q7 7 14 0" fill="none" stroke="#c45a7e" stroke-width="2" stroke-linecap="round"/>
+<ellipse cx="650" cy="122" rx="6" ry="3" fill="#ff77b6" opacity=".35"/><ellipse cx="705" cy="122" rx="6" ry="3" fill="#ff77b6" opacity=".35"/>
+<!-- laptop -->
+<rect x="650" y="181" width="61" height="34" rx="5" fill="#18172e" stroke="#64e8ff" stroke-width="2"/>
+<path d="M660 192h14m-14 7h30m-30 7h18" stroke="#ff79c8" stroke-width="2" stroke-linecap="round"/>
+<path d="M643 217h76l-7 7h-62z" fill="url(#shine)"/>
+<path d="m736 172 4 8 9 1-7 6 2 9-8-4-8 4 2-9-7-6 9-1z" fill="#ff79c8"/>
+</svg>
