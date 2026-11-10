@@ -34,7 +34,6 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/learning-quest.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/learning-quest.svg"><img src="assets/light/learning-quest.svg" width="100%" alt="پیش‌نویس قابل‌ویرایش: Django REST، ایجنت‌های هوش مصنوعی، Android و Unity؛ فقط موارد واقعی را نگه دارید"></picture>
 </div>
 
-پیشنهادهای قابل‌ویرایش و تأییدنشده‌اند؛ فقط موضوع‌هایی را نگه دارید که واقعاً در حال یادگیری هستید.
 
 <div align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/django.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/django.svg"><img src="assets/light/django.svg" width="190" alt="Django REST و طراحی API — پیشنهاد قابل‌ویرایش"></picture>&nbsp;
