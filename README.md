@@ -48,10 +48,10 @@
 <thead><tr><th width="26%" align="center">پروژه</th><th align="right">شرح · فناوری‌ها</th></tr></thead>
 <tbody>
 <tr><td valign="top" align="center"><strong><a href="https://github.com/ostovar04/Mazetoori">Mazetoori · مزه</a></strong><br/><sub>🟢 منتشرشده</sub></td><td dir="rtl" align="right">جست‌وجوی غذای فارسی و رستوران‌های نزدیک در نشان؛ شعاع ۵ کیلومتر و مرتب‌سازی بر اساس فاصله. دادهٔ منوی زنده ندارد.<br/><code>Vite</code> · <code>JavaScript</code> · <code>Three.js</code> · <code>Neshan</code><br/><a href="https://ostovar04.github.io/Mazetoori/">دموی زنده ↗</a></td></tr>
-<tr><td valign="top" align="center"><strong>Django API Hub</strong><br/><sub>📝 ایدهٔ آینده · قابل‌ویرایش</sub></td><td dir="rtl" align="right">مفهوم پیشنهادی برای ساخت API.<br/><code>Python</code> · <code>Django</code></td></tr>
-<tr><td valign="top" align="center"><strong>AI Agent Companion</strong><br/><sub>📝 ایدهٔ آینده · قابل‌ویرایش</sub></td><td dir="rtl" align="right">ایده‌ای برای گردش‌کار با ایجنت هوش مصنوعی.<br/><code>AI Agents</code> · <code>Automation</code></td></tr>
-<tr><td valign="top" align="center"><strong>Android Pocket Utility</strong><br/><sub>📝 ایدهٔ آینده · قابل‌ویرایش</sub></td><td dir="rtl" align="right">مفهوم یک ابزار کاربردی کوچک.<br/><code>Android</code> · <code>Mobile</code></td></tr>
-<tr><td valign="top" align="center"><strong>Unity Interactive Prototype</strong><br/><sub>📝 ایدهٔ آینده · قابل‌ویرایش</sub></td><td dir="rtl" align="right">مفهوم یک نمونهٔ تعاملی کوتاه.<br/><code>Unity</code> · <code>C#</code></td></tr>
+<tr><td valign="top" align="center"><strong>Django API Hub</strong><br/><sub>📝 ایدهٔ آینده · </sub></td><td dir="rtl" align="right">مفهوم پیشنهادی برای ساخت API.<br/><code>Python</code> · <code>Django</code></td></tr>
+<tr><td valign="top" align="center"><strong>AI Agent Companion</strong><br/><sub>📝 ایدهٔ آینده · </sub></td><td dir="rtl" align="right">ایده‌ای برای گردش‌کار با ایجنت هوش مصنوعی.<br/><code>AI Agents</code> · <code>Automation</code></td></tr>
+<tr><td valign="top" align="center"><strong>Android Pocket Utility</strong><br/><sub>📝 ایدهٔ آینده ·</sub></td><td dir="rtl" align="right">مفهوم یک ابزار کاربردی کوچک.<br/><code>Android</code> · <code>Mobile</code></td></tr>
+<tr><td valign="top" align="center"><strong>Unity Interactive Prototype</strong><br/><sub>📝 ایدهٔ آینده · </sub></td><td dir="rtl" align="right">مفهوم یک نمونهٔ تعاملی کوتاه.<br/><code>Unity</code> · <code>C#</code></td></tr>
 </tbody></table>
 
 
@@ -80,7 +80,7 @@
 <td width="50%" align="center"><a href="https://github.com/ostovar04"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/github-stats.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/github-stats.svg"><img src="assets/light/github-stats.svg" width="100%" alt="آمار GitHub متین از داده‌های عمومی"></picture></a></td>
 <td width="50%" align="center"><a href="https://github.com/ostovar04"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/top-languages.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/top-languages.svg"><img src="assets/light/top-languages.svg" width="100%" alt="زبان‌های برنامه‌نویسی در مخازن عمومی متین"></picture></a></td>
 </tr></table>
-<p align="center"><sub>کارت‌ها از داده‌های عمومی GitHub ساخته می‌شوند و workflow روزانهٔ همراه بسته آن‌ها را به‌روزرسانی می‌کند.</sub></p>
+<p align="center"><sub></sub></p>
 </div>
 
 ## 🏆 گواهی‌نامه‌ها و پیشرفت
@@ -98,7 +98,7 @@
 
 <div align="center">
 <a href="https://github.com/ostovar04"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact-github.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/contact-github.svg"><img src="assets/light/contact-github.svg" width="184" alt="پروفایل GitHub متین"></picture></a>
-<a href="https://ostovar04.github.io/Mazetoori/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact-portfolio.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/contact-portfolio.svg"><img src="assets/light/contact-portfolio.svg" width="184" alt="نمونه‌کار و دموی زندهٔ Mazetoori"></picture></a>
+<a href="tesgt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact-portfolio.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/contact-portfolio.svg"><img src="assets/light/contact-portfolio.svg" width="184" alt="نمونه‌کار و دموی زندهٔ Mazetoori"></picture></a>
 <a href="mailto:benjaminbigbang24@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact-email.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/contact-email.svg"><img src="assets/light/contact-email.svg" width="184" alt="ایمیل متین"></picture></a>
 <a href="https://t.me/Beagk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact-telegram.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/contact-telegram.svg"><img src="assets/light/contact-telegram.svg" width="184" alt="تلگرام متین، @Beagk"></picture></a>
 </div>
