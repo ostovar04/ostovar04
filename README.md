@@ -85,7 +85,7 @@
 
 ## 🏆 گواهی‌نامه‌ها و پیشرفت
 
-قالب‌های قابل‌ویرایش؛ عنوان واقعی، صادرکننده، سال و لینک را با اطلاعات تأییدشده جایگزین کنید.
+
 
 <div align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/certificate-django.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/certificate-django.svg"><img src="assets/light/certificate-django.svg" width="340" alt="جایگاه گواهی Python و Django"></picture><br/><br/>
@@ -131,7 +131,7 @@ I’m a programmer and **Computer Engineering student at Islamic Azad University
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/learning-quest.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/learning-quest.svg"><img src="assets/light/learning-quest.svg" width="100%" alt="Editable draft ideas: Django REST, AI agents, Android, and Unity; keep only topics actually being studied"></picture>
 </div>
 
-Editable, unconfirmed suggestions—keep only topics that genuinely match what you are currently learning.
+
 
 <div align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/django.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/django.svg"><img src="assets/light/django.svg" width="190" alt="Django REST and API design — editable suggestion"></picture>&nbsp;
@@ -146,10 +146,10 @@ Editable, unconfirmed suggestions—keep only topics that genuinely match what y
 <thead><tr><th width="26%" align="center">Project</th><th align="left">Overview · Stack</th></tr></thead>
 <tbody>
 <tr><td valign="top" align="center"><strong><a href="https://github.com/ostovar04/Mazetoori">Mazetoori (مزه)</a></strong><br/><sub>🟢 Published</sub></td><td>Persian-food discovery and nearby Neshan restaurants; 5 km radius, sorted by distance. No live menu data.<br/><code>Vite</code> · <code>JavaScript</code> · <code>Three.js</code> · <code>Neshan</code><br/><a href="https://ostovar04.github.io/Mazetoori/">Live demo ↗</a></td></tr>
-<tr><td valign="top" align="center"><strong>Django API Hub</strong><br/><sub>📝 Planned concept · editable</sub></td><td>Proposed API project.<br/><code>Python</code> · <code>Django</code></td></tr>
-<tr><td valign="top" align="center"><strong>AI Agent Companion</strong><br/><sub>📝 Planned concept · editable</sub></td><td>Idea for an AI-agent workflow.<br/><code>AI Agents</code> · <code>Automation</code></td></tr>
-<tr><td valign="top" align="center"><strong>Android Pocket Utility</strong><br/><sub>📝 Planned concept · editable</sub></td><td>Concept for a small practical app.<br/><code>Android</code> · <code>Mobile</code></td></tr>
-<tr><td valign="top" align="center"><strong>Unity Interactive Prototype</strong><br/><sub>📝 Planned concept · editable</sub></td><td>Concept for a short interactive prototype.<br/><code>Unity</code> · <code>C#</code></td></tr>
+<tr><td valign="top" align="center"><strong>Django API Hub</strong><br/><sub>📝 Planned concept · </sub></td><td>Proposed API project.<br/><code>Python</code> · <code>Django</code></td></tr>
+<tr><td valign="top" align="center"><strong>AI Agent Companion</strong><br/><sub>📝 Planned concept · </sub></td><td>Idea for an AI-agent workflow.<br/><code>AI Agents</code> · <code>Automation</code></td></tr>
+<tr><td valign="top" align="center"><strong>Android Pocket Utility</strong><br/><sub>📝 Planned concept · </sub></td><td>Concept for a small practical app.<br/><code>Android</code> · <code>Mobile</code></td></tr>
+<tr><td valign="top" align="center"><strong>Unity Interactive Prototype</strong><br/><sub>📝 Planned concept · </sub></td><td>Concept for a short interactive prototype.<br/><code>Unity</code> · <code>C#</code></td></tr>
 </tbody></table>
 
 
@@ -178,12 +178,12 @@ Editable, unconfirmed suggestions—keep only topics that genuinely match what y
 <td width="50%" align="center"><a href="https://github.com/ostovar04"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/github-stats.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/github-stats.svg"><img src="assets/light/github-stats.svg" width="100%" alt="GitHub stats for Matin, generated from public data"></picture></a></td>
 <td width="50%" align="center"><a href="https://github.com/ostovar04"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/top-languages.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/top-languages.svg"><img src="assets/light/top-languages.svg" width="100%" alt="Programming languages in Matin's public repositories"></picture></a></td>
 </tr></table>
-<p align="center"><sub>Generated from public GitHub API data; the included Actions workflow refreshes these cards daily.</sub></p>
+<p align="center"><sub></sub></p>
 </div>
 
 ## 🏆 Certificates & Progress
 
-Editable certificate placeholders. Replace with verified title, issuer, year, and URL.
+
 
 <div align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/certificate-django.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/certificate-django.svg"><img src="assets/light/certificate-django.svg" width="340" alt="Python and Django certificate placeholder"></picture><br/><br/>
@@ -196,7 +196,7 @@ Editable certificate placeholders. Replace with verified title, issuer, year, an
 
 <div align="center">
 <a href="https://github.com/ostovar04"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact-github.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/contact-github.svg"><img src="assets/light/contact-github.svg" width="184" alt="Matin’s GitHub profile"></picture></a>
-<a href="https://ostovar04.github.io/Mazetoori/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact-portfolio.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/contact-portfolio.svg"><img src="assets/light/contact-portfolio.svg" width="184" alt="Matin’s Mazetoori portfolio and live demo"></picture></a>
+<a href="test"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact-portfolio.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/contact-portfolio.svg"><img src="assets/light/contact-portfolio.svg" width="184" alt="Matin’s Mazetoori portfolio and live demo"></picture></a>
 <a href="mailto:benjaminbigbang24@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact-email.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/contact-email.svg"><img src="assets/light/contact-email.svg" width="184" alt="Email Matin"></picture></a>
 <a href="https://t.me/Beagk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact-telegram.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/contact-telegram.svg"><img src="assets/light/contact-telegram.svg" width="184" alt="Matin on Telegram, @Beagk"></picture></a>
 </div>
